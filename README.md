@@ -1,2 +1,2 @@
-# ngsolve-tutorial
-A quick tutorial for ngsolve
+# NGSOLVE TUTORIAL
+This repo serves a quick tutorial for ngsolve package. 
