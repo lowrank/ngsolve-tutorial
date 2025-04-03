@@ -1,9 +1,10 @@
 ---
-marp: false
+marp: true
 markdown.marp.chromePath: "/usr/bin/google-chrome"
 ---
 
 # Quick Introduction to ``NGSolve``
+###### The example codes are avaiable at https://github.com/lowrank/ngsolve-tutorial
 
 ---
 # What is ``NGSolve``?
